@@ -79,7 +79,7 @@ Explore the interactive Tableau dashboard to dive deeper into key metrics:
 
 Use the filters to customize the data view, and hover over data points for additional insights.
 
-[Access the dashboard here]([https://public.tableau.com/app/profile/maharshi.joshi6633/viz/CRM-Analysis/Dashboard1]).
+[Access the dashboard here](https://public.tableau.com/app/profile/maharshi.joshi6633/viz/CRM-Analysis/Dashboard1).
 
 ![Screenshot 2024-08-24 133324](https://github.com/user-attachments/assets/f9dd2084-1a65-4944-a465-fbc71615ff8c)
 
