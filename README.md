@@ -3,7 +3,13 @@
 ## Introduction
 This repository contains a comprehensive analysis of sales performance metrics, including win rate, sales cycle length, average revenue, and average deal size. The insights provided here are based on data from a CRM dataset, and the results are visualized through an interactive Tableau dashboard.
 
+This project focuses on analyzing key sales metrics to assess performance and identify areas for improvement. The analysis was conducted using the following steps:
 The data is downloaded from Maven Analytics and contains records of a fictitous company that sells hardware to other businesses. It has records of sales, products, comapanies, sales agents and managers.
+
+The data organized using Excel, where key metrics were calculated, and tables were structured and pivot tables were created for further analysis. An interactive Tableau dashboard was created to visualize the metrics. The dashboard includes bar charts, line charts, area charts, and tables, allowing for detailed exploration of the data. Key insights were derived from the visualizations, focusing on performance by sales agents, managers, sectors, and products. These insights are presented in the sections below, with actionable recommendations for optimizing sales strategies.
+
+This structured approach ensures that the analysis is comprehensive, data-driven, and easily interpretable, enabling stakeholders to make informed decisions.
+
 
 ## Table of Content
 - [Win Rate Analysis](#win-rate-analysis)
@@ -56,7 +62,7 @@ The Average Deal Size, also referred to as the Average Selling Price, represents
 - **Individual Performance:** Elase Gluck and Rosalina Dieter, both under Celia Rouche's management, achieved the highest average deal sizes despite having fewer total won opportunities. This suggests that they might be handling more expensive products or deals with higher individual values.
 
 
-## Interative Dashboard
+
 ## Interactive Dashboard
 
 Explore the interactive Tableau dashboard to dive deeper into key metrics:
@@ -68,11 +74,16 @@ Explore the interactive Tableau dashboard to dive deeper into key metrics:
 
 Use the filters to customize the data view, and hover over data points for additional insights.
 
-[Access the dashboard here]([https://public.tableau.com/views/your_dashboard_name/Sheet1](https://public.tableau.com/app/profile/maharshi.joshi6633/viz/CRM-Analysis/Dashboard1)).
+[Access the dashboard here]([https://public.tableau.com/app/profile/maharshi.joshi6633/viz/CRM-Analysis/Dashboard1]).
 
 ![Screenshot 2024-08-24 133324](https://github.com/user-attachments/assets/f9dd2084-1a65-4944-a465-fbc71615ff8c)
 
 
+## Conclusion 
+
+This analysis offers key insights into sales performance, focusing on metrics like win rate, sales cycle length, average revenue, and deal size. The findings highlight top-performing agents, sectors, and products, providing a foundation for optimizing sales strategies and improving efficiency. 
+
+Looking ahead, future analysis could include predictive analytics to forecast trends, customer segmentation to tailor strategies, and integration with marketing data to evaluate campaign effectiveness. These enhancements will drive deeper insights and help maintain a competitive edge.
 
 
   
